@@ -1,0 +1,13 @@
+*.com
+*.exe
+*bin
+*obj
+*.o
+*.lst
+*.map
+*.sym
+*.bak
+*.tmp
+*~
+*.ds_store
+thumbs.db
